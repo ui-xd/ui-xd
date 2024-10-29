@@ -1,16 +1,21 @@
-## Hi there 👋
+Jonny Norquist
+======================================================================================================================================
 
-<!--
-**ui-xd/ui-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End UX Engineer | UI Engineer | Design Engineer
+--------------------
+* Full stack developer
+* UI Development & Design
+* Building Morality.ai
+* Building AI-Powered Privacy Tools Cloaks.ai and Daggers.ai
 
-Here are some ideas to get you started:
+Multidisciplinary Design
+--------------------
+* Specialist in Psychological and Design Principles
+* Marketing Design
+* Interaction Design
+* UI Design
+* UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;[UIXD.dev](https://uixd.dev)
