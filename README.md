@@ -5,8 +5,8 @@ Front-End UX Engineer | UI Engineer | Design Engineer
 --------------------
 * Full stack developer
 * UI Development & Design
-* Building Morality.ai
-* Building AI-Powered Privacy Tools Cloaks.ai and Daggers.ai
+* Building Morality.ai, AI-Powered Privacy Tools Cloaks.ai and Daggers.ai
+* Founder @ &nbsp;&nbsp;&nbsp;&nbsp;[respawn.zone](https://respawn.zone)
 
 Multidisciplinary Design
 --------------------
