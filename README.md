@@ -6,7 +6,7 @@ Front-End UX Engineer | UI Engineer | Design Engineer
 * Full stack developer
 * UI Development & Design
 * Building AI-Powered Privacy Tools Cloaks.ai
-* Founder @ [respawn.zone](https://respawn.zone)
+* Founder @ [lossy.ai](https://lossy.ai)
 
 Multidisciplinary Design
 --------------------
