@@ -10,7 +10,7 @@ Front-End UX Engineer | UI Engineer | Design Engineer
 
 Multidisciplinary Design
 --------------------
-* Specialist in Psychological and Design Principles
+* Specialist in the application of Cognitive Science in Human-Computer Interaction and Design Principles
 * Marketing Design
 * Interaction Design
 * UI Design
