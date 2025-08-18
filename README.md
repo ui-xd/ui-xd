@@ -6,7 +6,7 @@ Front-End UX Engineer | UI Engineer | Design Engineer
 * Full stack developer
 * UI Development & Design
 * Building AI-Powered Privacy Tools Cloaks.ai
-* Founder @ [lossy.ai](https://lossy.ai) & [Cursor](https://cursor.gg) (Not the IDE) 
+* Founder @ [lossy.ai](https://lossy.ai) & [Cursor](https://cursor.gg) (not the IDE) 
 
 Multidisciplinary Design
 --------------------
