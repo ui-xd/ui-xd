@@ -1,6 +1,4 @@
 # Jonny Norquist
-======================================================================================================================================
-
 ## Design Engineer | Full-Stack Developer | UX Specialist
 --------------------
 * Full-stack web development with cognitive science principles
