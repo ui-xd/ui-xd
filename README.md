@@ -1,21 +1,19 @@
-Jonny Norquist
+# Jonny Norquist
 ======================================================================================================================================
 
-Front-End UX Engineer | UI Engineer | Design Engineer
+## Design Engineer | Full-Stack Developer | UX Specialist
 --------------------
-* Full stack developer
-* UI Development & Design
-* Building AI-Powered Privacy Tools Cloaks.ai
-* Founder @ [lossy.ai](https://lossy.ai) & [Cursor](https://cursor.gg) (not the IDE) 
+* Full-stack web development with cognitive science principles
+* UI/UX design & development specialist
+* Building AI-Powered Privacy Tools at [Cloaks.ai](https://cloaks.ai)
+* Founder @ [lossy.ai](https://lossy.ai) & [Cursor](https://cursor.gg) (not the IDE)
 
-Multidisciplinary Design
+## Expertise & Capabilities
 --------------------
-* Specialist in the application of Cognitive Science in Human-Computer Interaction and Design Principles
-* Marketing Design
-* Interaction Design
-* UI Design
-* UX Design
+* **Human-Computer Interaction:** Applying cognitive science to design better user experiences
+* **Frontend Development:** React, Svelte, TypeScript, modern JavaScript frameworks
+* **Design Systems:** Component libraries, design tokens, scalable UI architectures  
+* **Full-Stack Development:** APIs, databases, deployment, complete web applications
+* **Visual & Interaction Design:** UI design, prototyping, marketing design, brand development
 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;[UIXD.dev](https://uixd.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;[UIXD.dev](https://uixd.dev) | [GitHub](https://github.com/ui-xd)
