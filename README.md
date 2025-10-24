@@ -1,10 +1,10 @@
 # Jonny Norquist
 ## Design Engineer | Full-Stack Developer | UX Specialist
 --------------------
-* Full-stack web development with cognitive science principles
-* UI/UX design & development specialist
-* Building AI-Powered Privacy Tools at [Cloaks.ai](https://cloaks.ai)
-* Founder @ [lossy.ai](https://lossy.ai) & [Cursor](https://cursor.gg) (not the IDE)
+*  **Full-stack web development with cognitive science principles
+*  **UI/UX design & development specialist
+*  **Building AI-Powered Privacy Tools at [Cloaks.ai](https://cloaks.ai)
+*  **Founder @ [lossy.ai](https://lossy.ai) & [Cursor](https://cursor.gg) (not the IDE)
 
 ## Expertise & Capabilities
 --------------------
