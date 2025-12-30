@@ -12,4 +12,4 @@
 * **Full-Stack Development:** Building **APIs, databases, and complete web applications** through to deployment and iteration.
 * **Visual & Interaction Design:** **UI design, Motion/Interaction Design, UX design, prototyping, marketing design**, and brand development.
 
-[UIXD.dev](https://uixd.dev) | [GitHub](https://github.com/ui-xd)
+[UIXD.dev](https://uixd.dev)
