@@ -1,5 +1,5 @@
 # Jonny Norquist
-**Design Engineer | Full-Stack Developer | UX Specialist | Product Engineer**
+**Product Engineer | Full-Stack Developer | UX Specialist | Design Engineer | UI/UX Engineer**
 * **Human-Computer Interaction (HCI): **Applying cognitive science principles** to full-stack web development.
 * **Frontend Development:** Expertise in **Javascript, Svelte**, and most modern JavaScript frameworks.
 * **Design Systems:** Creating **component libraries, design tokens**, and scalable UI architectures.
